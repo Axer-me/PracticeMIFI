@@ -34,8 +34,10 @@
 
 Таким образом, разработка такого алгоритма позволит существенно повысить эффективность наблюдений, сократить трудозатраты на ручной учет и создать надежный инструмент для систематического мониторинга тихоокеанских чаек и состояния экосистемы острова Уташуд.
 ## Порядок установки(при работе с colab)
-##### Ссылка на датасет: https://www.kaggle.com/datasets/kapturovalexander/seagulls-images/data
-##### Ссылка на Google Colab: https://colab.research.google.com/drive/1CSmtPExtXWZa08joSd6gxxtPJKHLYaZX?usp=sharing
+##### Ссылка на датасет: 
+https://www.kaggle.com/datasets/kapturovalexander/seagulls-images/data
+##### Ссылка на Google Colab: 
+https://colab.research.google.com/drive/1CSmtPExtXWZa08joSd6gxxtPJKHLYaZX?usp=sharing
 1. Первым делом скачиваем датасет на Caggle <img width="934" height="609" alt="image" src="https://github.com/user-attachments/assets/22ca172b-dae6-4a12-9d01-f05a1234a579" />
 2. Скачиваем yaml файл с репозитория
 3. Переходим по ссылке на гугл колаб
