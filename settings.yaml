@@ -1,0 +1,6 @@
+
+train: /content/seagulls-images/train/train/images
+val: /content/seagulls-images/train/valid/images
+names:
+- Seagull
+nc: 1
